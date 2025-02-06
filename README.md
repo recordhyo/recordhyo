@@ -63,8 +63,8 @@
 ## 📫 How to reach me
 **Portfolio** : [포트폴리오 보러가기](https://drive.google.com/file/d/1DFqEQ4d5_0ZUtmoiJPFFmUwh3YAvXUoB/view?usp=sharing)  <br/>
 **Tech Blog** : [Velog 보러가기](https://velog.io/@recordhyo/posts)  <br/>
-**Email** : gytla1@naver.com   <br/>
-**Phone** : 010-5256-3003 
+**Email** : @naver.com   <br/>
+**Phone** :  
 
 <br/>
 <br/>
